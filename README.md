@@ -71,6 +71,5 @@ The competition version finished **2nd overall** in the module competition.
 ```text
 assignment/
   mountain_climbing_assignment.c
-
 competition/
   mountain_climbing_competition.c
