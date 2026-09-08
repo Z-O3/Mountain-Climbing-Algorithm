@@ -69,6 +69,8 @@ The competition version finished **2nd overall** in the module competition.
 ## Repository Structure
 
 ```text
-assignment/mountain_climbing_assignment.c
+assignment/
+  mountain_climbing_assignment.c
 
-competition/mountain_climbing_competition.c
+competition/
+  mountain_climbing_competition.c
